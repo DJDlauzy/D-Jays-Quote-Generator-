@@ -143,11 +143,11 @@ Want to show off your version? Host it on GitHub Pages, Netlify, or Vercel by up
 
 ## Got Ideas?
 Fork the project and make it yours! Some fun ideas:
-- Add a button to share quotes on X.
+- Add a button to share quotes on X or other things :3 
 - Make the quote card glow on hover.
 - Build a favorites list for quotes you love.
 Submit your changes via pull requests—I’d love to see what you create!
 
-## Shoutout
-This app was made by me, DJDlauzy, just for folks like you to have fun with. Swing by [https://djaysspace.carrd.co](https://djaysspace.carrd.co) to see more of my stuff!
+## D-Jay! 
+This app was made by me, DJDlauzy, just for goobers like you! to have fun with. Swing by [https://djaysspace.carrd.co](https://djaysspace.carrd.co) to see more of my stuff!
 
